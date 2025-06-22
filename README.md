@@ -49,26 +49,26 @@ jlouisce
 ### 📈 GitHub Analytics
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=CtrlMagno&label=Profile%20Views&color=5cd6d6&style=flat-square" alt="Profile views"/> 
+  <img src="https://komarev.com/ghpvc/?username=jlouisce&label=Profile%20Views&color=5cd6d6&style=flat-square" alt="Profile views"/> 
 </p>
 
 <p align="center">
-  <a href="https://github.com/CtrlMagno">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CtrlMagno&show_icons=true&theme=dark&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true"/>&nbsp;&nbsp;
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlMagno&layout=compact&theme=dark&hide_border=true&hide_progress=true&langs_count=100&cache_seconds=0" alt="All Languages"/> </a>
+  <a href="https://github.com/jlouisce">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jlouisce&show_icons=true&theme=dark&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true"/>&nbsp;&nbsp;
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlouisce&layout=compact&theme=dark&hide_border=true&hide_progress=true&langs_count=100&cache_seconds=0" alt="All Languages"/> </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CtrlMagno&theme=react-dark&bg_color=0D1117&hide_border=true&color=9D4EDD&line=9D4EDD&point=FFFFFF" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlouisce&theme=react-dark&bg_color=0D1117&hide_border=true&color=9D4EDD&line=9D4EDD&point=FFFFFF" alt="GitHub Activity Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CtrlMagno&theme=2077" alt="Yearly Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jlouisce&theme=2077" alt="Yearly Stats"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CtrlMagno&theme=onedark&row=1&column=4&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jlouisce&theme=onedark&row=1&column=4&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -78,8 +78,8 @@ jlouisce
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [HifiAC][(https://github.com/CtrlMagno/deltanexusweb)](https://github.com/CtrlMagno/HiFiac) | Network Using Music!! | Typescript, HTML, Typescript, CSS|
-| [Deploy Testing][(https://github.com/CtrlMagno/mql4Scripts)](https://github.com/CtrlMagno/FinalLab) | Testing Deploy | HTML, CSS, Typescript, Firebase, Supabase, Netlify |
+| [HifiAC][(https://github.com/jlouisce/deltanexusweb)](https://github.com/jlouisce/HiFiac) | Network Using Music!! | Typescript, HTML, Typescript, CSS|
+| [Deploy Testing][(https://github.com/jlouisce/mql4Scripts)](https://github.com/jlouisce/FinalLab) | Testing Deploy | HTML, CSS, Typescript, Firebase, Supabase, Netlify |
 
 <!--| [Neural Network Framework](https://github.com/) | Custom deep learning implementation | C++, CUDA, Python |-->
 
