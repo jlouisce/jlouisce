@@ -46,7 +46,7 @@ jlouisce
 ---
 *"Code is poetry in motion"* 
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jlouisce&label=Profile%20Views&color=5cd6d6&style=flat-square" alt="Profile views"/> 
@@ -54,8 +54,9 @@ jlouisce
 
 <p align="center">
   <a href="https://github.com/jlouisce">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jlouisce&show_icons=true&theme=dark&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true"/>&nbsp;&nbsp;
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlouisce&layout=compact&theme=dark&hide_border=true&hide_progress=true&langs_count=100&cache_seconds=0" alt="All Languages"/> </a>
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jlouisce&show_icons=true&theme=dark&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true"/>&nbsp;&nbsp;
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlouisce&layout=compact&theme=dark&hide_border=true&hide_progress=true" alt="All Languages"/>
+  </a>
 </p>
 
 <p align="center">
@@ -74,13 +75,12 @@ jlouisce
 
 ---
 
-### 💡 Recent Projects
+### Recent Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [HifiAC][(https://github.com/jlouisce/deltanexusweb)](https://github.com/jlouisce/HiFiac) | Network Using Music!! | Typescript, HTML, Typescript, CSS|
-| [Deploy Testing][(https://github.com/jlouisce/mql4Scripts)](https://github.com/jlouisce/FinalLab) | Testing Deploy | HTML, CSS, Typescript, Firebase, Supabase, Netlify |
+| [HifiAC](https://github.com/jlouisce/HiFiac) | Network Using Music!! | Typescript, HTML, CSS |
+| [Deploy Testing](https://github.com/jlouisce/FinalLab) | Testing Deploy | HTML, CSS, Typescript, Firebase, Supabase, Netlify |
 
 <!--| [Neural Network Framework](https://github.com/) | Custom deep learning implementation | C++, CUDA, Python |-->
-
 ---
