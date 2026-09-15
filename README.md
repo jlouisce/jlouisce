@@ -55,7 +55,7 @@ jlouisce
 <p align="center">
   <a href="https://github.com/jlouisce">
     <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jlouisce&show_icons=true&theme=dark&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true"/>&nbsp;&nbsp;
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlouisce&layout=compact&theme=dark&hide_border=true&hide_progress=true" alt="All Languages"/>
+    
   </a>
 </p>
 
