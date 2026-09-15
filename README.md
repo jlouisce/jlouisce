@@ -59,28 +59,15 @@ jlouisce
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlouisce&theme=react-dark&bg_color=0D1117&hide_border=true&color=9D4EDD&line=9D4EDD&point=FFFFFF" alt="GitHub Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jlouisce&theme=2077" alt="Yearly Stats"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jlouisce&theme=onedark&row=1&column=4&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ---
 
-### Recent Projects
+### Working on
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [HifiAC](https://github.com/jlouisce/HiFiac) | Network Using Music!! | Typescript, HTML, CSS |
-| [Deploy Testing](https://github.com/jlouisce/FinalLab) | Testing Deploy | HTML, CSS, Typescript, Firebase, Supabase, Netlify |
+| CloudeMed | DataStorage | Next.js (frontend) · Node.js/TypeScript (API layer) · Supabase (Postgres + Auth + Storage) · Target compliance: US HIPAA |
+| OGX | OGX Main Page, Software Developer | Typescript, React, Supabase, TailwindCSS |
 
 <!--| [Neural Network Framework](https://github.com/) | Custom deep learning implementation | C++, CUDA, Python |-->
 ---
