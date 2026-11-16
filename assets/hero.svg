@@ -20,7 +20,7 @@
 
   <style>
     .sans { font-family: Inter, "Segoe UI", -apple-system, Helvetica, Arial, sans-serif; }
-    .mono { font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .mono { white-space: pre; font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
     .line { animation: rise .5s ease-out both; }
     .l1 { animation-delay: 1.0s; } .l2 { animation-delay: 1.3s; } .l3 { animation-delay: 1.6s; }
     .l4 { animation-delay: 1.9s; } .l5 { animation-delay: 2.2s; } .l6 { animation-delay: 2.5s; }
