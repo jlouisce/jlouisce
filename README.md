@@ -139,28 +139,6 @@ flowchart LR
 
 ---
 
-## 📈 Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=jlouisce&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&icon_color=A259FF&title_color=F5F5F7"/>
-    <img height="160" alt="Luis's GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jlouisce&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&icon_color=A259FF"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jlouisce&layout=compact&hide_border=true&theme=github_dark&title_color=F5F5F7"/>
-    <img height="160" alt="Most used languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jlouisce&layout=compact&hide_border=true"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlouisce/jlouisce/output/snake-dark.svg"/>
-    <img width="100%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/jlouisce/jlouisce/output/snake-light.svg"/>
-  </picture>
-</p>
-
----
-
 ## 📫 Let's build something
 
 Have a product that needs to look good **and** work well? Or just want to talk design systems? My inbox is open.
